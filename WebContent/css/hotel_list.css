@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+#hotelCount{text-align: center;}
+	#listDiv{
+		width:1000px; 
+		height:300px; 
+		margin: 20px auto;
+		border-radius: 15px 15px;
+		border: 1px solid lightgray;
+	}
+	
+	.hotelImg{
+		margin-left: 20px;
+		margin-top: 20px;
+		width:230px;
+		height:260px;
+		float:left;
+		overflow:hidden;
+	}
+	.imgOfHotel{
+		max-width:100%;
+	}
+	.hotelDesc {
+		margin-left: 10px;
+		width:700px;
+		float:left;
+	}
+	
+	.starOgHotel{align:right;}
+	
+	#hname{height:30px;margin-top:30px;}
+	#hloc{height:50px;}
+	#hcomment{height:180px;}
+	
+	#nameP{font-size: 20px; font-weight: bold;}
+	#locP{font-family: Arial, Helvetica, sans-serif; font-size: 15px;}
+	#commentP{text-indent: 1em;font-family: Arial, Helvetica, sans-serif; font-size: 16px;}
+	
+	#pages {text-align: center;}
+	
+	a {text-decoration: none;}
